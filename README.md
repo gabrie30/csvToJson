@@ -5,7 +5,7 @@ Convert csv to json on the commandline.
 ## Install
 
 ```bash
-go install .
+go install github.com/gabrie30/csvToJson@latest
 ```
 
 ## Usage
