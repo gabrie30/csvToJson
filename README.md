@@ -11,5 +11,5 @@ go install github.com/gabrie30/csvToJson@latest
 ## Usage
 
 ```bash
-csvToJson yourFile.csv | jq .
+csvToJson yourFile.csv
 ```
